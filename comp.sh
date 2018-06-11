@@ -1,0 +1,1 @@
+g++ blockpendrive.cpp -o pendrive -std=c++11
